@@ -1,8 +1,11 @@
 @import "tailwindcss";
+@import './fonts.css';
+
 
 :root {
   --background: #EF476F;
   --foreground: #171717;
+  --border: #464646;
 }
 
 @theme inline {
