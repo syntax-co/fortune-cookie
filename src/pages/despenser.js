@@ -20,7 +20,7 @@ const Cookie = () => {
             origin-bottom-right
             "
             style={{
-                backgroundImage: "url('/images/cookie-left.png')",
+                backgroundImage: "url('images/cookie-left.png')",
             }}
 
             initial={{rotate:0}}
@@ -34,7 +34,7 @@ const Cookie = () => {
             origin-bottom-left
             "
             style={{
-                backgroundImage: "url('/images/cookie-right.png')",
+                backgroundImage: "url('images/cookie-right.png')",
             }}
 
             initial={{rotate:0}}
